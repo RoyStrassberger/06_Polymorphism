@@ -22,6 +22,13 @@ public class App {
         output(queen.fly());
         output(drone.fly());
         output(worker.fly());
+
+        output("--------------- Aber: -------------");
+        
+        // Das solte eigentlich nicht gehen!
+        // HoneyBee bee = new HoneyBee();
+        // output(bee.doYourJob());
+
   
     }
 
